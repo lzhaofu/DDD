@@ -1,0 +1,6 @@
+F:\DDD\DDD\DDD.Utility\bin\Release\DDD.Utility.dll
+F:\DDD\DDD\DDD.Utility\bin\Release\DDD.Utility.pdb
+F:\DDD\DDD\DDD.Utility\bin\Release\Newtonsoft.Json.dll
+F:\DDD\DDD\DDD.Utility\bin\Release\Newtonsoft.Json.xml
+F:\DDD\DDD\DDD.Utility\obj\Release\DDD.Utility.dll
+F:\DDD\DDD\DDD.Utility\obj\Release\DDD.Utility.pdb

@@ -1,0 +1,7 @@
+F:\DDD\DDD\DDD.Utility\bin\Debug\DDD.Utility.dll
+F:\DDD\DDD\DDD.Utility\bin\Debug\DDD.Utility.pdb
+F:\DDD\DDD\DDD.Utility\bin\Debug\Newtonsoft.Json.dll
+F:\DDD\DDD\DDD.Utility\bin\Debug\Newtonsoft.Json.xml
+F:\DDD\DDD\DDD.Utility\obj\Debug\DDD.Utility.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.Utility\obj\Debug\DDD.Utility.dll
+F:\DDD\DDD\DDD.Utility\obj\Debug\DDD.Utility.pdb
