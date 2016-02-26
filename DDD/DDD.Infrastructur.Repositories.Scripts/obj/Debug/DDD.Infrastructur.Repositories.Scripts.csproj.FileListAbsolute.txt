@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Infrastructur.Repositories.Scripts\bin\Debug\DDD.Infrastructur.Repositories.Scripts.dll
+F:\DDD\DDD\DDD.Infrastructur.Repositories.Scripts\bin\Debug\DDD.Infrastructur.Repositories.Scripts.pdb
+F:\DDD\DDD\DDD.Infrastructur.Repositories.Scripts\obj\Debug\DDD.Infrastructur.Repositories.Scripts.dll
+F:\DDD\DDD\DDD.Infrastructur.Repositories.Scripts\obj\Debug\DDD.Infrastructur.Repositories.Scripts.pdb
