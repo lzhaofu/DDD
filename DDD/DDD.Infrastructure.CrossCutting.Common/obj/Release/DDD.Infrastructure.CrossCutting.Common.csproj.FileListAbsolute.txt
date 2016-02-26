@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Common\bin\Release\DDD.Infrastructure.CrossCutting.Common.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Common\bin\Release\DDD.Infrastructure.CrossCutting.Common.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Common\obj\Release\DDD.Infrastructure.CrossCutting.Common.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Common\obj\Release\DDD.Infrastructure.CrossCutting.Common.pdb
