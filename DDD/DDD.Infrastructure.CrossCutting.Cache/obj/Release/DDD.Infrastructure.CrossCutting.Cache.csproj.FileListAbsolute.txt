@@ -1,0 +1,12 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\DDD.Infrastructure.CrossCutting.Cache.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\DDD.Infrastructure.CrossCutting.Cache.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\BeITMemcached.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\DDD.Utility.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\log4net.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\Newtonsoft.Json.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\DDD.Utility.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\log4net.xml
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\bin\Release\Newtonsoft.Json.xml
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\obj\Release\DDD.Infrastructure.CrossCutting.Cache.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\obj\Release\DDD.Infrastructure.CrossCutting.Cache.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Cache\obj\Release\DDD.Infrastructure.CrossCutting.Cache.pdb
