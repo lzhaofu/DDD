@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Domain\bin\Release\DDD.Domain.dll
+F:\DDD\DDD\DDD.Domain\bin\Release\DDD.Domain.pdb
+F:\DDD\DDD\DDD.Domain\obj\Release\DDD.Domain.dll
+F:\DDD\DDD\DDD.Domain\obj\Release\DDD.Domain.pdb
