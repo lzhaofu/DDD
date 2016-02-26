@@ -1,0 +1,9 @@
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Domain.Model.dll
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Domain.Model.pdb
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Domain.dll
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Infrastructure.CrossCutting.Common.dll
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Domain.pdb
+F:\DDD\DDD\DDD.Domain.Model\bin\Debug\DDD.Infrastructure.CrossCutting.Common.pdb
+F:\DDD\DDD\DDD.Domain.Model\obj\Debug\DDD.Domain.Model.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.Domain.Model\obj\Debug\DDD.Domain.Model.dll
+F:\DDD\DDD\DDD.Domain.Model\obj\Debug\DDD.Domain.Model.pdb
