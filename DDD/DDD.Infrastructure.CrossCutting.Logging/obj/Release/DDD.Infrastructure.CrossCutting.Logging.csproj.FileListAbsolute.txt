@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Logging\bin\Release\DDD.Infrastructure.CrossCutting.Logging.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Logging\bin\Release\DDD.Infrastructure.CrossCutting.Logging.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Logging\obj\Release\DDD.Infrastructure.CrossCutting.Logging.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Logging\obj\Release\DDD.Infrastructure.CrossCutting.Logging.pdb
