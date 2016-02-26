@@ -1,0 +1,13 @@
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\DDD.BusinessServiceEngine.exe.config
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\DDD.BusinessServiceEngine.exe
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\DDD.BusinessServiceEngine.pdb
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\DDD.Utility.dll
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\Newtonsoft.Json.dll
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\DDD.Utility.pdb
+F:\DDD\DDD\DDD.BusinessServiceEngine\bin\Debug\Newtonsoft.Json.xml
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.Form1.resources
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.Properties.Resources.resources
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.csproj.GenerateResource.Cache
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.exe
+F:\DDD\DDD\DDD.BusinessServiceEngine\obj\Debug\DDD.BusinessServiceEngine.pdb
