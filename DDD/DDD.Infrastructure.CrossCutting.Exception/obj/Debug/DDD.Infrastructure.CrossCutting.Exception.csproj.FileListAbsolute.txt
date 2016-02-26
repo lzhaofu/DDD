@@ -1,0 +1,5 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\bin\Debug\DDD.Infrastructure.CrossCutting.Exception.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\bin\Debug\DDD.Infrastructure.CrossCutting.Exception.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\obj\Debug\DDD.Infrastructure.CrossCutting.Exception.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\obj\Debug\DDD.Infrastructure.CrossCutting.Exception.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\obj\Debug\DDD.Infrastructure.CrossCutting.Exception.pdb

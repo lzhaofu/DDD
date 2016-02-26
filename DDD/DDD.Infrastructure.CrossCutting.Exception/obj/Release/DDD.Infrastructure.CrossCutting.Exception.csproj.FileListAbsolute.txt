@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\bin\Release\DDD.Infrastructure.CrossCutting.Exception.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\bin\Release\DDD.Infrastructure.CrossCutting.Exception.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\obj\Release\DDD.Infrastructure.CrossCutting.Exception.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Exception\obj\Release\DDD.Infrastructure.CrossCutting.Exception.pdb
