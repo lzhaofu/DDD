@@ -1,0 +1,5 @@
+F:\DDD\DDD\MvcPager\bin\Debug\MvcPager.dll
+F:\DDD\DDD\MvcPager\bin\Debug\MvcPager.pdb
+F:\DDD\DDD\MvcPager\obj\Debug\MvcPager.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\MvcPager\obj\Debug\MvcPager.dll
+F:\DDD\DDD\MvcPager\obj\Debug\MvcPager.pdb
