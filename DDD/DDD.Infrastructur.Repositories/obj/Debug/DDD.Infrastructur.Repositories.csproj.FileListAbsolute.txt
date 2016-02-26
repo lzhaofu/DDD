@@ -1,0 +1,7 @@
+F:\DDD\DDD\DDD.Infrastructur.Repositories\bin\Debug\DDD.Infrastructur.Repositories.dll
+F:\DDD\DDD\DDD.Infrastructur.Repositories\bin\Debug\DDD.Infrastructur.Repositories.pdb
+F:\DDD\DDD\DDD.Infrastructur.Repositories\bin\Debug\DDD.Domain.dll
+F:\DDD\DDD\DDD.Infrastructur.Repositories\bin\Debug\DDD.Domain.pdb
+F:\DDD\DDD\DDD.Infrastructur.Repositories\obj\Debug\DDD.Infrastructur.Repositories.csprojResolveAssemblyReference.cache
+F:\DDD\DDD\DDD.Infrastructur.Repositories\obj\Debug\DDD.Infrastructur.Repositories.dll
+F:\DDD\DDD\DDD.Infrastructur.Repositories\obj\Debug\DDD.Infrastructur.Repositories.pdb
