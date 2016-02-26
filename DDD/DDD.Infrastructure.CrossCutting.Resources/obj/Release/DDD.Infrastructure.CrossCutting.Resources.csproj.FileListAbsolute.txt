@@ -1,0 +1,4 @@
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Resources\bin\Release\DDD.Infrastructure.CrossCutting.Resources.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Resources\bin\Release\DDD.Infrastructure.CrossCutting.Resources.pdb
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Resources\obj\Release\DDD.Infrastructure.CrossCutting.Resources.dll
+F:\DDD\DDD\DDD.Infrastructure.CrossCutting.Resources\obj\Release\DDD.Infrastructure.CrossCutting.Resources.pdb
