@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BeITMemcached.dll">
+      <publishTime>03/11/2015 09:38:52</publishTime>
+    </File>
+    <File Include="bin/DDD.Application.Service.dll">
+      <publishTime>01/13/2016 09:42:09</publishTime>
+    </File>
+    <File Include="bin/DDD.Domain.dll">
+      <publishTime>01/11/2016 15:50:47</publishTime>
+    </File>
+    <File Include="bin/DDD.Domain.MainModule.dll">
+      <publishTime>01/13/2016 09:42:09</publishTime>
+    </File>
+    <File Include="bin/DDD.Domain.Model.dll">
+      <publishTime>01/13/2016 09:42:09</publishTime>
+    </File>
+    <File Include="bin/DDD.Infrastructur.Repositories.dll">
+      <publishTime>01/11/2016 15:50:48</publishTime>
+    </File>
+    <File Include="bin/DDD.Infrastructur.Repositories.Sql.dll">
+      <publishTime>01/13/2016 09:42:09</publishTime>
+    </File>
+    <File Include="bin/DDD.Infrastructure.CrossCutting.Cache.dll">
+      <publishTime>01/11/2016 15:50:48</publishTime>
+    </File>
+    <File Include="bin/DDD.Infrastructure.CrossCutting.Common.dll">
+      <publishTime>01/11/2016 15:50:47</publishTime>
+    </File>
+    <File Include="bin/DDD.Infrastructure.CrossCutting.IOC.dll">
+      <publishTime>01/13/2016 09:42:10</publishTime>
+    </File>
+    <File Include="bin/DDD.Utility.dll">
+      <publishTime>01/11/2016 15:50:48</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>01/05/2016 11:56:15</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>01/05/2016 15:01:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>01/05/2016 14:38:01</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>01/05/2016 14:38:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/05/2016 14:31:41</publishTime>
+    </File>
+    <File Include="bin/Sonctech.WQuan.WCF.WcfRestService.dll">
+      <publishTime>01/13/2016 09:42:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/EntityFramework.resources.dll">
+      <publishTime>01/05/2016 17:39:14</publishTime>
+    </File>
+    <File Include="Config/Parameter.config">
+      <publishTime>04/23/2015 13:51:07</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/12/2016 15:32:14</publishTime>
+    </File>
+    <File Include="Template/Panorama/MWeb.Panorama.config">
+      <publishTime>03/11/2015 09:39:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/13/2016 09:42:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
